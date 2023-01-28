@@ -1,4 +1,5 @@
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=web+developer+gif&sxsrf=AJOqlzUew557ENfOYh4OHjtaBwjQrkpHFw:1674926797889&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwkMDG5Or8AhVmSfEDHYY2B3gQ_AUoAXoECAEQAw&biw=1536&bih=754&dpr=1.25#imgrc=3brDSoVYXy7FhM">
+
 <h1 align="center">Hi 👋, I'm Ghada Sassi</h1>
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 
