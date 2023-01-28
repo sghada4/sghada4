@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ghada Sassi</h1>
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 
-👩‍💻 <h3> About me:</h3>
+<h3>👩‍💻 About me:</h3>
 
 - 😇 I love learing new technologies and leveraging them to solve real life-problems.
 
