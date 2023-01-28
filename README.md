@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flinakhedikar&psig=AOvVaw33jzo6autGDizXtss_n3lc&ust=1675013201605000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjriMnk6vwCFQAAAAAdAAAAABAR)">
+<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/55091210/215281817-37664ed5-d618-4691-92f4-dd29379f7150.png)">
 <h1 align="center">Hi 👋, I'm Ghada Sassi</h1>
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 
