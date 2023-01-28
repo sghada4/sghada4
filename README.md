@@ -1,8 +1,14 @@
-<img align="right" alt="Coding" width="400" src="![image](https://user-images.githubusercontent.com/55091210/215281817-37664ed5-d618-4691-92f4-dd29379f7150.png)">
+<img align="right" alt="Coding" width="400" src="C:\Users\ghada\Desktop">
 <h1 align="center">Hi 👋, I'm Ghada Sassi</h1>
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript, C#, SQL, HTML5, CSS, jQuery, React, Express.js, React, Flask, .Net, ASP .Net, Entity Framework Core at the <span style="color: red;"> **Coding Dojo Bootcamp in Tunisia**<span>
+👩‍💻 <h3> About me:</h3>
+
+- 😇 I love learing new technologies and leveraging them to solve real life-problems.
+
+- 🌱 I’m currently learning **Web Development at the <span style="color: red;"> **Coding Dojo Bootcamp in Tunisia**<span>
+  
+- ⚡ Fun fact Besides programming, I enjoy listening music.
 
 - 📫 How to reach me **sassighada5@gmail.com**
 
