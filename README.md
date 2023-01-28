@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search q=web+developer+gif&sxsrf=AJOqlzUew557ENfOYh4OHjtaBwjQrkpHFw:1674926797889&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiwkMDG5Or8AhVmSfEDHYY2B3gQ_AUoAXoECAEQAw&biw=1536&bih=754&dpr=1.25#imgrc=3brDSoVYXy7FhM">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0c9837fb47204ad3cdcbe3da75414266a19d007721862591c91034559ff6815b/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d4f307531624e48732d2d2f635f6c696d6974253243665f6175746f253243666c5f70726f6772657373697665253243715f3636253243775f3838302f68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302532415058663567653751434e3947615f434c2e676966">
 
 <h1 align="center">Hi 👋, I'm Ghada Sassi</h1>
 <h3 align="center">A passionate Web developer from Tunisia</h3>
