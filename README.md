@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ghada Sassi</h1>
 <h3 align="center">A passionate Web developer from Tunisia</h3>
 
-- 🌱 I’m currently learning **Python, JavaScript, C#, SQL, HTML5, CSS, jQuery, React, Express.js, React, Flask, .Net, ASP .Net, Entity Framework Core at the Coding Dojo Bootcamp in Tunisia**
+- 🌱 I’m currently learning **Python, JavaScript, C#, SQL, HTML5, CSS, jQuery, React, Express.js, React, Flask, .Net, ASP .Net, Entity Framework Core at the <span style.color: red> **Coding Dojo Bootcamp in Tunisia**<span>
 
 - 📫 How to reach me **sassighada5@gmail.com**
 
