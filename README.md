@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://www.bing.com/images/create/github-profile-image-for-a-respectful-and-inclusiv/1-6652e6cf17194b3dbbd84c810fa4703f?id=UOjEogG%2b9wdlKE143oAwGQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG1.p_vJHRHUqPgvr9a9Ye8X&frame=sydedg&FORM=SYDBIC">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <h1 align="center">Hi 👋, I'm Ghada Sassi</h1>
 <h3 align="center">A passionate Full Stack Engineer from Tunisia</h3>
