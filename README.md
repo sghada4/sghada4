@@ -27,22 +27,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">  </a><img src="https://www.abrilliants.com/wp-content/uploads/2023/05/1631110818-logo-react-js.png" alt="reactjs" width="40" height="40"/>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
-
-
-  
+  <a href="https://commons.wikimedia.org/wiki/File:Spring_Boot.svg#/media/File:Spring_Boot.svg"><img src="https://img.icons8.com/?size=512&id=90519&format=png" alt="Spring Boot" height="40" width="40"></a>
+  <a href="https://commons.wikimedia.org/wiki/File:Angular_full_color_logo.svg#/media/Fichier:Angular_full_color_logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="Angular full color logo.svg" height="40" width="40"></a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/flask-icon-797x1024-5a9evoph.png" alt="flask" width="40" height="40"/> </a> 
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  
-   
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  
-  <a href="https://commons.wikimedia.org/wiki/File:Spring_Boot.svg#/media/File:Spring_Boot.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot.svg" height="40" width="40"></a>
-  <a href="https://commons.wikimedia.org/wiki/File:Angular_full_color_logo.svg#/media/Fichier:Angular_full_color_logo.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular full color logo.svg" height="40" width="40"></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="git" width="40" height="40"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/OpenCV_Logo_with_text.png/487px-OpenCV_Logo_with_text.png" alt="opencv" width="40" height="40"/> </a> 
 </p>
