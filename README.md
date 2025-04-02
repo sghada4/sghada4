@@ -7,7 +7,7 @@
 
 - 😇 I love learing new technologies and leveraging them to solve real life-problems.
 
-- 🌱 I’m currently working as Instructor for Web Development [Pyhton: Flask | MERN | Java: Spring Boot | Angular] at the <span style="color: red;"> **Coding Dojo Bootcamp in Tunisia**<span> &  <span style="color: red;"> **Nefel Education**<span>
+- 🌱 I’m currently working as Instructor for Web Development [Web Fundamentals: HTML, CSS, JavaScript | Pyhton: Flask | MERN | Java: Spring Boot | Angular] at the <span style="color: red;"> **Coding Dojo Bootcamp in Tunisia**<span> &  <span style="color: red;"> **Nefel Education**<span>
 
 - 📫 How to reach me **sassighada5@gmail.com**
 
